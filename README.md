@@ -63,7 +63,7 @@ _Figure 1_ displays the orthogonal projection of the object when the parameters 
 </p>
 <p align="center">Figure 2. S = {sqrt(1/3), sqrt(1/3), sqrt(1/3)}, r = 50, a = 0.5, m = 1<p align="center">
 
-_Figure 2_ displays the image of the object when the light source was moved away from the default location to positive quadrant of $xy-$plane. The light source points to the object from a $45$ degree angle.
+_Figure 2_ displays the image of the object when the light source was moved away from the default location to positive quadrant of xy-plane. The light source points to the object from a 45 degree angle.
 
 <p align="center">
     <img src="https://imgur.com/inVYBom.jpg" alt="Figure 3. S = {1, 0, 0}, r = 50, a = 0.5, m = 1" width="300"/>
