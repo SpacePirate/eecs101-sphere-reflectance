@@ -1,19 +1,26 @@
 Generating images of a sphere under orthographic projection using a reflectance model.
 
-The surface of the object was given by the equation\
+The surface of the object was given by the equation:
+
 ![img](http://latex.codecogs.com/svg.latex?z%28x%2Cy%29%3Dz_0%2B%5Csqrt%7Br%5E2-%28x%5E2%2By%5E2%29%7D)
-The vector components of the normal vector to that sphere was given by the gradient vector such that,\
-\[ \frac{dz}{dx} = \frac{-x}{\sqrt{r^2 - (x^2 + y^2)}}\]\
-\[ \frac{dz}{dy} = \frac{-y}{\sqrt{r^2 - (x^2 + y^2)}}\]\
-\[ \frac{dz}{dz} = 1\]\
+
+The vector components of the normal vector to that sphere was given by the gradient vector such that,
+
+\frac{dz}{dx}=\frac{-x}{\sqrt{r^2-(x^2+y^2)}\
+\frac{dz}{dy}=\frac{-y}{\sqrt{r^2-(x^2+y^2)}\
+\frac{dz}{dz}=1\
+
 The normal vector was normalized to obtain the unit normal vector,\
-\[\hat{N} =  {\frac{-x}{r}\vec{i} + \frac{-y}{r}\vec{j} + \frac{\sqrt{r^2 - (x^2 + y^2)}}{r}\vec{k}}\]\
+\hat{N}={\frac{-x}{r}\vec{i}+\frac{-y}{r}\vec{j}+\frac{\sqrt{r^2-(x^2+y^2)}}{r}\vec{k}\
+
 The camera was fixed at the location given by the vector $\hat{V}=\{0,0,1\}$. The light source was varied at the location given by the vector $\hat{S}$. The object had a Lambertian surface profile and the scene radiance was given by the equation,\
-\[ L = aL_l + (1-a)L_s \]\
-\[ L_l = cos(\theta) \]\
-\[ L_s = \exp\{-(\frac{\alpha}{m})^2\} \]\
+L=aL_l+(1-a)L_s
+L_l=cos(\theta)
+L_s=\exp\{-(\frac{\alpha}{m})^2\}
+
 where $L_l$ was the scene radiance due to the Lambertian refection and $L_s$ was the scene radiance due to the specular reflection. The angle $\theta$ was given by the angle between the vectors $\hat{S}$ and $\hat{N}$ and the angle $\alpha$ was given by the angle between the vectors $\hat{S}$ and $\hat{H}$. The unit angular bisector vector $\hat{H}$ was given by,\
-\[ \hat{H} = \frac{\hat{V} + \hat{S}}{|\hat{V} + \hat{S}|} \]\
+\hat{H} = \frac{\hat{V} + \hat{S}}{|\hat{V} + \hat{S}|}
+
 The parameters r, a, and m, radius of sphere, radiance constant, and material surface roughness, respectively, were varied to observe their effects.\
 
 <figure class="image">
