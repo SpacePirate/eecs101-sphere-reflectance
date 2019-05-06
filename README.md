@@ -13,7 +13,7 @@ The vector components of the normal vector to that sphere was given by the gradi
 
 The normal vector was normalized to obtain the unit normal vector,
 
-\hat{N}={\frac{-x}{r}\vec{i}+\frac{-y}{r}\vec{j}+\frac{\sqrt{r^2-(x^2+y^2)}}{r}\vec{k}\
+<a href="https://www.codecogs.com/eqnedit.php?latex=\hat{N}={\frac{-x}{r}\vec{i}&plus;\frac{-y}{r}\vec{j}&plus;\frac{\sqrt{r^2-(x^2&plus;y^2)}}{r}\vec{k}}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\hat{N}={\frac{-x}{r}\vec{i}&plus;\frac{-y}{r}\vec{j}&plus;\frac{\sqrt{r^2-(x^2&plus;y^2)}}{r}\vec{k}}" title="\hat{N}={\frac{-x}{r}\vec{i}+\frac{-y}{r}\vec{j}+\frac{\sqrt{r^2-(x^2+y^2)}}{r}\vec{k}}" /></a>
 
 The camera was fixed at the location given by the vector 
 ![img](http://latex.codecogs.com/svg.latex?%5Chat%7BV%7D%3D%5C%7B0%2C0%2C1%5C%7D)
@@ -23,7 +23,7 @@ The camera was fixed at the location given by the vector
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=L=aL_l&plus;(1-a)L_s" target="_blank"><img src="https://latex.codecogs.com/gif.latex?L=aL_l&plus;(1-a)L_s" title="L=aL_l+(1-a)L_s" /></a>
 
-<a href="https://www.codecogs.com/eqnedit.php?latex=L_l=cos(\theta)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?<a href="https://www.codecogs.com/eqnedit.php?latex=L_l=cos(\theta)"&space;title="L_l=cos(\theta)"&space;/></a>" target="_blank"><img src="https://latex.codecogs.com/gif.latex?L_l=cos(\theta)"&space;title="L_l=cos(\theta)"&space;/></a>" title="L_l=cos(\theta)" title="L_l=cos(\theta)" /></a>" /></a>
+<a href="https://www.codecogs.com/eqnedit.php?latex=L_l=cos(\theta)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?L_l=cos(\theta)" title="L_l=cos(\theta)" /></a>
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=L_s=\exp\{-(\frac{\alpha}{m})^2\}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?L_s=\exp\{-(\frac{\alpha}{m})^2\}" title="L_s=\exp\{-(\frac{\alpha}{m})^2\}" /></a>
 
