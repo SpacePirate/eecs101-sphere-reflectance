@@ -50,8 +50,9 @@ and
 ![img](http://latex.codecogs.com/svg.latex?%5Chat%7BH%7D)
 . The unit angular bisector vector 
 ![img](http://latex.codecogs.com/svg.latex?%5Chat%7BH%7D)
-was given by,\
-\hat{H}=\frac{\hat{V}+\hat{S}}{|\hat{V}+\hat{S}|}
+was given by,
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\hat{H}=\frac{\hat{V}&plus;\hat{S}}{|\hat{V}&plus;\hat{S}|}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\hat{H}=\frac{\hat{V}&plus;\hat{S}}{|\hat{V}&plus;\hat{S}|}" title="\hat{H}=\frac{\hat{V}+\hat{S}}{|\hat{V}+\hat{S}|}" /></a>
 
 The parameters r, a, and m, radius of sphere, radiance constant, and material surface roughness, respectively, were varied to observe their effects.
 
