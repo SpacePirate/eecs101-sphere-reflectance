@@ -15,9 +15,9 @@ The camera was fixed at the location given by the vector $\hat{V}=\{0,0,1\}$. Th
 where $L_l$ was the scene radiance due to the Lambertian refection and $L_s$ was the scene radiance due to the specular reflection. The angle $\theta$ was given by the angle between the vectors $\hat{S}$ and $\hat{N}$ and the angle $\alpha$ was given by the angle between the vectors $\hat{S}$ and $\hat{H}$. The unit angular bisector vector $\hat{H}$ was given by,\
 \[ \hat{H} = \frac{\hat{V} + \hat{S}}{|\hat{V} + \hat{S}|} \]\
 The parameters r, a, and m, radius of sphere, radiance constant, and material surface roughness, respectively, were varied to observe their effects.\
-[Imgur](https://i.imgur.com/bubhKzU.jpg)
+[Figure 1](https://i.imgur.com/bubhKzU.jpg)
 <figure class="image">
-  <img src="{{ https://imgur.com/bubhKzU }}" alt="{{Figure 1. r = 50, a = 0.5, m = 1}}">
+  <img src="{{ https://i.imgur.com/bubhKzU.jpg }}" alt="{{Figure 1. r = 50, a = 0.5, m = 1}}">
   <figcaption>{{ Figure 1. r = 50, a = 0.5, m = 1 }}</figcaption>
 </figure>
 
