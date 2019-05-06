@@ -32,7 +32,7 @@ The parameters r, a, and m, radius of sphere, radiance constant, and material su
 \textit{Figure 1} displays the orthogonal projection of the object when the parameters were set to "default". Here, the light source positioned at the same location as the camera.\
 
 <figure class="image">
-  <img src="https://imgur.com/eUoBpE7.jpg" alt="Figure 1. r = 50, a = 0.5, m = 1" width="300"/>
+  <img src="https://imgur.com/eUoBpE7.jpg" alt="Figure 1. r = 50, a = 0.5, m = 1" width="300" align="middle"/>
   <figcaption>Figure 1. r = 50, a = 0.5, m = 1</figcaption>
 </figure>\
 
@@ -40,43 +40,43 @@ The parameters r, a, and m, radius of sphere, radiance constant, and material su
 }\[\]
 
 <figure class="image">
-  <img src="https://imgur.com/eUoBpE7.jpg" alt="Figure 1. r = 50, a = 0.5, m = 1" width="300"/>
+  <img src="https://imgur.com/eUoBpE7.jpg" alt="Figure 1. r = 50, a = 0.5, m = 1" width="300" align="middle"/>
   <figcaption>Figure 1. r = 50, a = 0.5, m = 1</figcaption>
 </figure>\
 
 \textit{Figure 3} displays the image of the object when the light source was again moved to the $x-$axis. Therefore, the light was shined from the right side of the sphere.
 
 <figure class="image">
-  <img src="https://imgur.com/eUoBpE7.jpg" alt="Figure 1. r = 50, a = 0.5, m = 1" width="300"/>
+  <img src="https://imgur.com/eUoBpE7.jpg" alt="Figure 1. r = 50, a = 0.5, m = 1" width="300" align="middle"/>
   <figcaption>Figure 1. r = 50, a = 0.5, m = 1</figcaption>
 </figure>\
 
 <figure class="image">
-  <img src="https://imgur.com/eUoBpE7.jpg" alt="Figure 1. r = 50, a = 0.5, m = 1" width="300"/>
+  <img src="https://imgur.com/eUoBpE7.jpg" alt="Figure 1. r = 50, a = 0.5, m = 1" width="300" align="middle"/>
   <figcaption>Figure 1. r = 50, a = 0.5, m = 1</figcaption>
 </figure>\
 
 \textit{Figure 4} and \textit{Figure 5} displays the image of the object when the radius of the object was decreased and increased, respectively. Therefore, the image of the sphere became smaller and bigger, respectively.\
 
 <figure class="image">
-  <img src="https://imgur.com/eUoBpE7.jpg" alt="Figure 1. r = 50, a = 0.5, m = 1" width="300"/>
+  <img src="https://imgur.com/eUoBpE7.jpg" alt="Figure 1. r = 50, a = 0.5, m = 1" width="300" align="middle"/>
   <figcaption>Figure 1. r = 50, a = 0.5, m = 1</figcaption>
 </figure>\
 
 <figure class="image">
-  <img src="https://imgur.com/eUoBpE7.jpg" alt="Figure 1. r = 50, a = 0.5, m = 1" width="300"/>
+  <img src="https://imgur.com/eUoBpE7.jpg" alt="Figure 1. r = 50, a = 0.5, m = 1" width="300" align="middle"/>
   <figcaption>Figure 1. r = 50, a = 0.5, m = 1</figcaption>
 </figure>\
 
 \textit{Figure 6} and \textit{Figure 7} displays the image of the object when the Lambertian scene radiance constant, a, was changed. As the constant, a, increased, the gradation of the light became more even. The surface reflected light more evenly as the constant increased and appeared more matte.\
 
 <figure class="image">
-  <img src="https://imgur.com/eUoBpE7.jpg" alt="Figure 1. r = 50, a = 0.5, m = 1" width="300"/>
+  <img src="https://imgur.com/eUoBpE7.jpg" alt="Figure 1. r = 50, a = 0.5, m = 1" width="300" align="middle"/>
   <figcaption>Figure 1. r = 50, a = 0.5, m = 1</figcaption>
 </figure>\
 
 <figure class="image">
-  <img src="https://imgur.com/eUoBpE7.jpg" alt="Figure 1. r = 50, a = 0.5, m = 1" width="300"/>
+  <img src="https://imgur.com/eUoBpE7.jpg" alt="Figure 1. r = 50, a = 0.5, m = 1" width="300" align="middle"/>
   <figcaption>Figure 1. r = 50, a = 0.5, m = 1</figcaption>
 </figure>\
 
