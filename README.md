@@ -70,7 +70,7 @@ _Figure 2_ displays the image of the object when the light source was moved away
 </p>
 <p align="center">Figure 3. S = {1, 0, 0}, r = 50, a = 0.5, m = 1"<p align="center">
 
-_Figure 3_ displays the image of the object when the light source was again moved to the $x-$axis. Therefore, the light was shined from the right side of the sphere.
+_Figure 3_ displays the image of the object when the light source was again moved to the x-axis. Therefore, the light was shined from the right side of the sphere.
 
 <p align="center">
     <img src="https://imgur.com/ex9eQak.jpg" alt="Figure 4. S = {0, 0, 1}, r = 10, a = 0.5, m = 1" width="300"/>
