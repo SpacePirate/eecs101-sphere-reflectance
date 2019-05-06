@@ -27,11 +27,6 @@ The camera was fixed at the location given by the vector
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=L_s=\exp\{-(\frac{\alpha}{m})^2\}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?L_s=\exp\{-(\frac{\alpha}{m})^2\}" title="L_s=\exp\{-(\frac{\alpha}{m})^2\}" /></a>
 
-![img](http://latex.codecogs.com/svg.latex?)
-![img](http://latex.codecogs.com/svg.latex?)
-![img](http://latex.codecogs.com/svg.latex?)
-![img](http://latex.codecogs.com/svg.latex?)
-
 where 
 ![img](http://latex.codecogs.com/svg.latex?L_%7Bl%7D)
 was the scene radiance due to the Lambertian refection and 
