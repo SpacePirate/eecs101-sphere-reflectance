@@ -5,10 +5,11 @@ The surface of the object was given by the equation:
 ![img](http://latex.codecogs.com/svg.latex?z%28x%2Cy%29%3Dz_0%2B%5Csqrt%7Br%5E2-%28x%5E2%2By%5E2%29%7D)
 
 The vector components of the normal vector to that sphere was given by the gradient vector such that,
+<a href="https://www.codecogs.com/eqnedit.php?latex=\frac{dz}{dx}=\frac{-x}{\sqrt{r^2-(x^2&plus;y^2)}}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{dz}{dx}=\frac{-x}{\sqrt{r^2-(x^2&plus;y^2)}}" title="\frac{dz}{dx}=\frac{-x}{\sqrt{r^2-(x^2+y^2)}}" /></a>
 
-\frac{dz}{dx}=\frac{-x}{\sqrt{r^2-(x^2+y^2)}\
-\frac{dz}{dy}=\frac{-y}{\sqrt{r^2-(x^2+y^2)}\
-\frac{dz}{dz}=1\
+<a href="https://www.codecogs.com/eqnedit.php?latex=\frac{dz}{dy}=\frac{-y}{\sqrt{r^2-(x^2&plus;y^2)}}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{dz}{dy}=\frac{-y}{\sqrt{r^2-(x^2&plus;y^2)}}" title="\frac{dz}{dy}=\frac{-y}{\sqrt{r^2-(x^2+y^2)}}" /></a>
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\frac{dz}{dz}=1" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{dz}{dz}=1" title="\frac{dz}{dz}=1" /></a>
 
 The normal vector was normalized to obtain the unit normal vector,
 
@@ -20,9 +21,11 @@ The camera was fixed at the location given by the vector
 ![img](http://latex.codecogs.com/svg.latex?%5Chat%7BS%7D)
 . The object had a Lambertian surface profile and the scene radiance was given by the equation,
 
-L=aL_l+(1-a)L_s
-L_l=cos(\theta)
-L_s=\exp\{-(\frac{\alpha}{m})^2\}
+<a href="https://www.codecogs.com/eqnedit.php?latex=L=aL_l&plus;(1-a)L_s" target="_blank"><img src="https://latex.codecogs.com/gif.latex?L=aL_l&plus;(1-a)L_s" title="L=aL_l+(1-a)L_s" /></a>
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=L_l=cos(\theta)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?<a href="https://www.codecogs.com/eqnedit.php?latex=L_l=cos(\theta)"&space;title="L_l=cos(\theta)"&space;/></a>" target="_blank"><img src="https://latex.codecogs.com/gif.latex?L_l=cos(\theta)"&space;title="L_l=cos(\theta)"&space;/></a>" title="L_l=cos(\theta)" title="L_l=cos(\theta)" /></a>" /></a>
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=L_s=\exp\{-(\frac{\alpha}{m})^2\}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?L_s=\exp\{-(\frac{\alpha}{m})^2\}" title="L_s=\exp\{-(\frac{\alpha}{m})^2\}" /></a>
 
 ![img](http://latex.codecogs.com/svg.latex?)
 ![img](http://latex.codecogs.com/svg.latex?)
@@ -39,7 +42,9 @@ was given by the angle between the vectors
 ![img](http://latex.codecogs.com/svg.latex?%5Chat%7BS%7D)
 and 
 ![img](http://latex.codecogs.com/svg.latex?%5Chat%7BN%7D)
-and the angle $\alpha$ was given by the angle between the vectors 
+and the angle 
+![img](http://latex.codecogs.com/svg.latex?%5Calpha)
+was given by the angle between the vectors 
 ![img](http://latex.codecogs.com/svg.latex?%5Chat%7BS%7D)
 and 
 ![img](http://latex.codecogs.com/svg.latex?%5Chat%7BH%7D)
