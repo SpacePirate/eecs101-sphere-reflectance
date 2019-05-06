@@ -17,15 +17,36 @@ The normal vector was normalized to obtain the unit normal vector,
 The camera was fixed at the location given by the vector 
 ![img](http://latex.codecogs.com/svg.latex?%5Chat%7BV%7D%3D%5C%7B0%2C0%2C1%5C%7D)
 . The light source was varied at the location given by the vector 
-![img](http://latex.codecogs.com/svg.latex?%24%5Chat%7BS%7D%24)
+![img](http://latex.codecogs.com/svg.latex?%5Chat%7BS%7D)
 . The object had a Lambertian surface profile and the scene radiance was given by the equation,
 
 L=aL_l+(1-a)L_s
 L_l=cos(\theta)
 L_s=\exp\{-(\frac{\alpha}{m})^2\}
 
-where $L_l$ was the scene radiance due to the Lambertian refection and $L_s$ was the scene radiance due to the specular reflection. The angle $\theta$ was given by the angle between the vectors $\hat{S}$ and $\hat{N}$ and the angle $\alpha$ was given by the angle between the vectors $\hat{S}$ and $\hat{H}$. The unit angular bisector vector $\hat{H}$ was given by,\
-\hat{H} = \frac{\hat{V} + \hat{S}}{|\hat{V} + \hat{S}|}
+![img](http://latex.codecogs.com/svg.latex?)
+![img](http://latex.codecogs.com/svg.latex?)
+![img](http://latex.codecogs.com/svg.latex?)
+![img](http://latex.codecogs.com/svg.latex?)
+
+where 
+![img](http://latex.codecogs.com/svg.latex?L_%7Bl%7D)
+was the scene radiance due to the Lambertian refection and 
+![img](http://latex.codecogs.com/svg.latex?L_%7Bs%7D)
+was the scene radiance due to the specular reflection. The angle 
+![img](http://latex.codecogs.com/svg.latex?%5Ctheta)
+was given by the angle between the vectors 
+![img](http://latex.codecogs.com/svg.latex?%5Chat%7BS%7D)
+and 
+![img](http://latex.codecogs.com/svg.latex?%5Chat%7BN%7D)
+and the angle $\alpha$ was given by the angle between the vectors 
+![img](http://latex.codecogs.com/svg.latex?%5Chat%7BS%7D)
+and 
+![img](http://latex.codecogs.com/svg.latex?%5Chat%7BH%7D)
+. The unit angular bisector vector 
+![img](http://latex.codecogs.com/svg.latex?%5Chat%7BH%7D)
+was given by,\
+\hat{H}=\frac{\hat{V}+\hat{S}}{|\hat{V}+\hat{S}|}
 
 The parameters r, a, and m, radius of sphere, radiance constant, and material surface roughness, respectively, were varied to observe their effects.
 
@@ -81,4 +102,8 @@ _Figure 6_ and _Figure 7_ displays the image of the object when the Lambertian s
 </p>
 <p align="center">Figure 9. S = {0, 0, 1}, r = 50, a = 0.5, m = 10000<p align="center">
 
-_Figure 8_ and _Figure 9_ displays the image of the object when the material roughness was changed. As roughness increased, the reflectance became less matte. When the roughness was small, the term $L_s$ dominated in the scene radiance, therefore, creating an image that looks very specular. When the roughness increased, the term $L_l$ dominated and the image looks matte due to Lambertian reflection.
+_Figure 8_ and _Figure 9_ displays the image of the object when the material roughness was changed. As roughness increased, the reflectance became less matte. When the roughness was small, the term 
+![img](http://latex.codecogs.com/svg.latex?L_%7Bs%7D)
+dominated in the scene radiance, therefore, creating an image that looks very specular. When the roughness increased, the term 
+![img](http://latex.codecogs.com/svg.latex?L_%7Bl%7D)
+dominated and the image looks matte due to Lambertian reflection.
