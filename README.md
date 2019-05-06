@@ -24,58 +24,59 @@ where $L_l$ was the scene radiance due to the Lambertian refection and $L_s$ was
 The parameters r, a, and m, radius of sphere, radiance constant, and material surface roughness, respectively, were varied to observe their effects.\
 
 <figure class="image">
-  <img src="{{ https://imgur.com/eUoBpE7.jpg }}" alt="{{Figure 1. r = 50, a = 0.5, m = 1}}">
+  <img src="{{ https://imgur.com/eUoBpE7.jpg }}" alt="{{Figure 1. r = 50, a = 0.5, m = 1}}" width="300"/>
   <figcaption>{{ Figure 1. r = 50, a = 0.5, m = 1 }}</figcaption>
 </figure>\
+
 
 \textit{Figure 1} displays the orthogonal projection of the object when the parameters were set to "default". Here, the light source positioned at the same location as the camera.\
 
 <figure class="image">
-  <img src="{{ https://imgur.com/eUoBpE7.jpg }}" alt="{{Figure 1. r = 50, a = 0.5, m = 1}}">
-  <figcaption>{{ Figure 1. r = 50, a = 0.5, m = 1 }}</figcaption>
+  <img src="{{ https://imgur.com/eUoBpE7.jpg }}" alt="{{Figure 1. r = 50, a = 0.5, m = 1}}" width="300"/>
+  <figcaption>{{ Figure 2. r = 50, a = 0.5, m = 1 }}</figcaption>
 </figure>\
 
 \textit{Figure 2} displays the image of the object when the light source was moved away from the default location to positive quadrant of $xy-$plane. The light source points to the object from a $45$ degree angle.
 }\[\]
 
 <figure class="image">
-  <img src="{{ https://imgur.com/eUoBpE7.jpg }}" alt="{{Figure 1. r = 50, a = 0.5, m = 1}}">
+  <img src="{{ https://imgur.com/eUoBpE7.jpg }}" alt="{{Figure 1. r = 50, a = 0.5, m = 1}}" width="300"/>
   <figcaption>{{ Figure 1. r = 50, a = 0.5, m = 1 }}</figcaption>
 </figure>\
 
 \textit{Figure 3} displays the image of the object when the light source was again moved to the $x-$axis. Therefore, the light was shined from the right side of the sphere.
 
 <figure class="image">
-  <img src="{{ https://imgur.com/eUoBpE7.jpg }}" alt="{{Figure 1. r = 50, a = 0.5, m = 1}}">
+  <img src="{{ https://imgur.com/eUoBpE7.jpg }}" alt="{{Figure 1. r = 50, a = 0.5, m = 1}}" width="300"/>
   <figcaption>{{ Figure 1. r = 50, a = 0.5, m = 1 }}</figcaption>
 </figure>\
 
 <figure class="image">
-  <img src="{{ https://imgur.com/eUoBpE7.jpg }}" alt="{{Figure 1. r = 50, a = 0.5, m = 1}}">
+  <img src="{{ https://imgur.com/eUoBpE7.jpg }}" alt="{{Figure 1. r = 50, a = 0.5, m = 1}}" width="300"/>
   <figcaption>{{ Figure 1. r = 50, a = 0.5, m = 1 }}</figcaption>
 </figure>\
 
 \textit{Figure 4} and \textit{Figure 5} displays the image of the object when the radius of the object was decreased and increased, respectively. Therefore, the image of the sphere became smaller and bigger, respectively.\
 
 <figure class="image">
-  <img src="{{ https://imgur.com/eUoBpE7.jpg }}" alt="{{Figure 1. r = 50, a = 0.5, m = 1}}">
+  <img src="{{ https://imgur.com/eUoBpE7.jpg }}" alt="{{Figure 1. r = 50, a = 0.5, m = 1}}" width="300"/>
   <figcaption>{{ Figure 1. r = 50, a = 0.5, m = 1 }}</figcaption>
 </figure>\
 
 <figure class="image">
-  <img src="{{ https://imgur.com/eUoBpE7.jpg }}" alt="{{Figure 1. r = 50, a = 0.5, m = 1}}">
+  <img src="{{ https://imgur.com/eUoBpE7.jpg }}" alt="{{Figure 1. r = 50, a = 0.5, m = 1}}" width="300"/>
   <figcaption>{{ Figure 1. r = 50, a = 0.5, m = 1 }}</figcaption>
 </figure>\
 
 \textit{Figure 6} and \textit{Figure 7} displays the image of the object when the Lambertian scene radiance constant, a, was changed. As the constant, a, increased, the gradation of the light became more even. The surface reflected light more evenly as the constant increased and appeared more matte.\
 
 <figure class="image">
-  <img src="{{ https://imgur.com/eUoBpE7.jpg }}" alt="{{Figure 1. r = 50, a = 0.5, m = 1}}">
+  <img src="{{ https://imgur.com/eUoBpE7.jpg }}" alt="{{Figure 1. r = 50, a = 0.5, m = 1}}" width="300"/>
   <figcaption>{{ Figure 1. r = 50, a = 0.5, m = 1 }}</figcaption>
 </figure>\
 
 <figure class="image">
-  <img src="{{ https://imgur.com/eUoBpE7.jpg }}" alt="{{Figure 1. r = 50, a = 0.5, m = 1}}">
+  <img src="{{ https://imgur.com/eUoBpE7.jpg }}" alt="{{Figure 1. r = 50, a = 0.5, m = 1}}" width="300"/>
   <figcaption>{{ Figure 1. r = 50, a = 0.5, m = 1 }}</figcaption>
 </figure>\
 
