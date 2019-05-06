@@ -23,61 +23,57 @@ where $L_l$ was the scene radiance due to the Lambertian refection and $L_s$ was
 
 The parameters r, a, and m, radius of sphere, radiance constant, and material surface roughness, respectively, were varied to observe their effects.\
 
-<figure class="image">
+<p align="center">
   <img src="https://imgur.com/eUoBpE7.jpg" alt="Figure 1. r = 50, a = 0.5, m = 1" width="300"/>
-  <figcaption>Figure 1. r = 50, a = 0.5, m = 1</figcaption>
-</figure>\
-
+</p>
+<p align="center">Figure 1. r = 50, a = 0.5, m = 1<p align="center">
 
 \textit{Figure 1} displays the orthogonal projection of the object when the parameters were set to "default". Here, the light source positioned at the same location as the camera.\
 
-<figure class="image">
-  <img src="https://imgur.com/eUoBpE7.jpg" alt="Figure 1. r = 50, a = 0.5, m = 1" width="300" align="middle"/>
-  <figcaption>Figure 1. r = 50, a = 0.5, m = 1</figcaption>
-</figure>\
+<p align="center">
+    <img src="https://imgur.com/eUoBpE7.jpg" alt="Figure 1. r = 50, a = 0.5, m = 1" width="300"/>
+</p>
+<p align="center">Figure 1. r = 50, a = 0.5, m = 1<p align="center">
 
 \textit{Figure 2} displays the image of the object when the light source was moved away from the default location to positive quadrant of $xy-$plane. The light source points to the object from a $45$ degree angle.
 }\[\]
 
-<figure class="image">
-  <img src="https://imgur.com/eUoBpE7.jpg" alt="Figure 1. r = 50, a = 0.5, m = 1" width="300" align="middle"/>
-  <figcaption>Figure 1. r = 50, a = 0.5, m = 1</figcaption>
-</figure>\
+<p align="center">
+    <img src="https://imgur.com/eUoBpE7.jpg" alt="Figure 1. r = 50, a = 0.5, m = 1" width="300"/>
+</p>
+<p align="center">Figure 1. r = 50, a = 0.5, m = 1<p align="center">
 
 \textit{Figure 3} displays the image of the object when the light source was again moved to the $x-$axis. Therefore, the light was shined from the right side of the sphere.
 
-<figure class="image">
-  <img src="https://imgur.com/eUoBpE7.jpg" alt="Figure 1. r = 50, a = 0.5, m = 1" width="300" align="middle"/>
-  <figcaption>Figure 1. r = 50, a = 0.5, m = 1</figcaption>
-</figure>\
-
-<figure class="image">
-  <img src="https://imgur.com/eUoBpE7.jpg" alt="Figure 1. r = 50, a = 0.5, m = 1" width="300" align="middle"/>
-  <figcaption>Figure 1. r = 50, a = 0.5, m = 1</figcaption>
-</figure>\
+<p align="center">
+    <img src="https://imgur.com/eUoBpE7.jpg" alt="Figure 1. r = 50, a = 0.5, m = 1" width="300"/>
+</p>
+<p align="center">Figure 1. r = 50, a = 0.5, m = 1<p align="center">
+<p align="center">
+    <img src="https://imgur.com/eUoBpE7.jpg" alt="Figure 1. r = 50, a = 0.5, m = 1" width="300"/>
+</p>
+<p align="center">Figure 1. r = 50, a = 0.5, m = 1<p align="center">
 
 \textit{Figure 4} and \textit{Figure 5} displays the image of the object when the radius of the object was decreased and increased, respectively. Therefore, the image of the sphere became smaller and bigger, respectively.\
 
-<figure class="image">
-  <img src="https://imgur.com/eUoBpE7.jpg" alt="Figure 1. r = 50, a = 0.5, m = 1" width="300" align="middle"/>
-  <figcaption>Figure 1. r = 50, a = 0.5, m = 1</figcaption>
-</figure>\
-
-<figure class="image">
-  <img src="https://imgur.com/eUoBpE7.jpg" alt="Figure 1. r = 50, a = 0.5, m = 1" width="300" align="middle"/>
-  <figcaption>Figure 1. r = 50, a = 0.5, m = 1</figcaption>
-</figure>\
+<p align="center">
+    <img src="https://imgur.com/eUoBpE7.jpg" alt="Figure 1. r = 50, a = 0.5, m = 1" width="300"/>
+</p>
+<p align="center">Figure 1. r = 50, a = 0.5, m = 1<p align="center">
+<p align="center">
+    <img src="https://imgur.com/eUoBpE7.jpg" alt="Figure 1. r = 50, a = 0.5, m = 1" width="300"/>
+</p>
+<p align="center">Figure 1. r = 50, a = 0.5, m = 1<p align="center">
 
 \textit{Figure 6} and \textit{Figure 7} displays the image of the object when the Lambertian scene radiance constant, a, was changed. As the constant, a, increased, the gradation of the light became more even. The surface reflected light more evenly as the constant increased and appeared more matte.\
 
-<figure class="image">
-  <img src="https://imgur.com/eUoBpE7.jpg" alt="Figure 1. r = 50, a = 0.5, m = 1" width="300" align="middle"/>
-  <figcaption>Figure 1. r = 50, a = 0.5, m = 1</figcaption>
-</figure>\
-
-<figure class="image">
-  <img src="https://imgur.com/eUoBpE7.jpg" alt="Figure 1. r = 50, a = 0.5, m = 1" width="300" align="middle"/>
-  <figcaption>Figure 1. r = 50, a = 0.5, m = 1</figcaption>
-</figure>\
+<p align="center">
+    <img src="https://imgur.com/eUoBpE7.jpg" alt="Figure 1. r = 50, a = 0.5, m = 1" width="300"/>
+</p>
+<p align="center">Figure 1. r = 50, a = 0.5, m = 1<p align="center">
+<p align="center">
+    <img src="https://imgur.com/eUoBpE7.jpg" alt="Figure 1. r = 50, a = 0.5, m = 1" width="300"/>
+</p>
+<p align="center">Figure 1. r = 50, a = 0.5, m = 1<p align="center">
 
 \textit{Figure 8} and \textit{Figure 9} displays the image of the object when the material roughness was changed. As roughness increased, the reflectance became less matte. When the roughness was small, the term $L_s$ dominated in the scene radiance, therefore, creating an image that looks very specular. When the roughness increased, the term $L_l$ dominated and the image looks matte due to Lambertian reflection.\
