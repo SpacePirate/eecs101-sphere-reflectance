@@ -14,7 +14,11 @@ The normal vector was normalized to obtain the unit normal vector,
 
 \hat{N}={\frac{-x}{r}\vec{i}+\frac{-y}{r}\vec{j}+\frac{\sqrt{r^2-(x^2+y^2)}}{r}\vec{k}\
 
-The camera was fixed at the location given by the vector $\hat{V}=\{0,0,1\}$. The light source was varied at the location given by the vector $\hat{S}$. The object had a Lambertian surface profile and the scene radiance was given by the equation,
+The camera was fixed at the location given by the vector 
+![img](http://latex.codecogs.com/svg.latex?%5Chat%7BV%7D%3D%5C%7B0%2C0%2C1%5C%7D)
+. The light source was varied at the location given by the vector 
+![img](http://latex.codecogs.com/svg.latex?%24%5Chat%7BS%7D%24)
+. The object had a Lambertian surface profile and the scene radiance was given by the equation,
 
 L=aL_l+(1-a)L_s
 L_l=cos(\theta)
